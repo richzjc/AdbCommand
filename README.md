@@ -3,7 +3,7 @@
 发现有很多adb指令，还不会使用，集思广益，
 收集adb常用的命令， 欢迎大家分享在工作中，常用的工作命令， **感谢，感谢！！！**
 
-[!github地址](https://github.com/richzjc/AdbCommand/edit/main/README.md)
+[github地址](https://github.com/richzjc/AdbCommand/edit/main/README.md)
 ---
 **adb devices**
 </br>
