@@ -44,3 +44,8 @@ Android 系统开发和高级调试的核心工具，通过解除 /system 分区
 
 ---
 
+**adb shell kill 进程id**</br>
+杀掉一个进程
+
+---
+
