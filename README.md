@@ -53,3 +53,8 @@ Android 系统开发和高级调试的核心工具，通过解除 /system 分区
 进入设备的linux环境
 
 ---
+
+**adb uninstall 包名**</br>
+卸载指定包名的应用
+
+---
