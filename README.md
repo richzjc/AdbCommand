@@ -49,3 +49,7 @@ Android 系统开发和高级调试的核心工具，通过解除 /system 分区
 
 ---
 
+**adb shell**</br>
+进入设备的linux环境
+
+---
