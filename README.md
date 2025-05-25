@@ -1,6 +1,9 @@
 # AdbCommand
-收集adb常用的命令， 欢迎大家分享在工作中，常用的工作命令
+最近由Android手机应用开发，转行到了车载应用开发，主要是我现在负责车载Launcher,需要用到很多adb指令。
+发现有很多adb指令，还不会使用，集思广益，
+收集adb常用的命令， 欢迎大家分享在工作中，常用的工作命令， **感谢，感谢！！！**
 
+[!github地址](https://github.com/richzjc/AdbCommand/edit/main/README.md)
 ---
 **adb devices**
 </br>
